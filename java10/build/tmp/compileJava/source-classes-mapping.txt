@@ -1,0 +1,8 @@
+br/com/rfasioli/java10/VersionTester.java
+ br.com.rfasioli.java10.VersionTester
+br/com/rfasioli/java10/typeInference/LocalVariableTypeInferenceTester.java
+ br.com.rfasioli.java10.typeInference.LocalVariableTypeInferenceTester
+br/com/rfasioli/java10/apiImprovements/OptionalTester.java
+ br.com.rfasioli.java10.apiImprovements.OptionalTester
+br/com/rfasioli/java10/apiImprovements/UnmodifieableCollectionsTester.java
+ br.com.rfasioli.java10.apiImprovements.UnmodifieableCollectionsTester
