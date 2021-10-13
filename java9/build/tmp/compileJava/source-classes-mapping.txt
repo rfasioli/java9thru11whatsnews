@@ -35,3 +35,15 @@ br/com/rfasioli/java9/optional/IfPresentOrElseTester.java
  br.com.rfasioli.java9.optional.IfPresentOrElseTester
 br/com/rfasioli/java9/optional/OrTester.java
  br.com.rfasioli.java9.optional.OrTester
+br/com/rfasioli/java9/reactivestreams/FlowTester.java
+ br.com.rfasioli.java9.reactivestreams.FlowTester
+br/com/rfasioli/java9/reactivestreams/simplepubsub/PrintSubscriber.java
+ br.com.rfasioli.java9.reactivestreams.simplepubsub.PrintSubscriber
+br/com/rfasioli/java9/reactivestreams/processor/PlusTenProcessor.java
+ br.com.rfasioli.java9.reactivestreams.processor.PlusTenProcessor
+br/com/rfasioli/java9/reactivestreams/processor/SubmissionPublisherExample.java
+ br.com.rfasioli.java9.reactivestreams.processor.SubmissionPublisherExample
+br/com/rfasioli/java9/reactivestreams/simplepubsub/SubmissionPublisherExample.java
+ br.com.rfasioli.java9.reactivestreams.simplepubsub.SubmissionPublisherExample
+br/com/rfasioli/java9/reactivestreams/processor/PrintSubscriber.java
+ br.com.rfasioli.java9.reactivestreams.processor.PrintSubscriber

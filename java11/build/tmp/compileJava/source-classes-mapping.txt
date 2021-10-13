@@ -1,0 +1,18 @@
+br/com/rfasioli/java11/httpclient/HttpClientTester.java
+ br.com.rfasioli.java11.httpclient.HttpClientTester
+br/com/rfasioli/java11/newfeatures/StringNewFeaturesTester.java
+ br.com.rfasioli.java11.newfeatures.StringNewFeaturesTester
+br/com/rfasioli/java11/newfeatures/CollectionsToArrayTester.java
+ br.com.rfasioli.java11.newfeatures.CollectionsToArrayTester
+br/com/rfasioli/java11/newfeatures/FileOverloadedMethodsTester.java
+ br.com.rfasioli.java11.newfeatures.FileOverloadedMethodsTester
+br/com/rfasioli/java11/newfeatures/OptionalNewMethodsTester.java
+ br.com.rfasioli.java11.newfeatures.OptionalNewMethodsTester
+br/com/rfasioli/java11/newfeatures/NotPredicateTester.java
+ br.com.rfasioli.java11.newfeatures.NotPredicateTester
+br/com/rfasioli/java11/nestbasedaccess/NestBasedAccessTester.java
+ br.com.rfasioli.java11.nestbasedaccess.NestBasedAccessTester
+ br.com.rfasioli.java11.nestbasedaccess.NestBasedAccessTester$Inner
+br/com/rfasioli/java11/varlambda/VarLambdaTester.java
+ br.com.rfasioli.java11.varlambda.NonNull
+ br.com.rfasioli.java11.varlambda.VarLambdaTester
